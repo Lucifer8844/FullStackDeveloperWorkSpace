@@ -1,2 +1,2 @@
 # FullStackDeveloperWorkSpace
-Working Directory to contail Full Stack Development Projects.
+Working Directory to contain Full Stack Development Projects.
